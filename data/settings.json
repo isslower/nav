@@ -11,11 +11,11 @@
   "appTheme": "App",
   "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright ©2022-2023 dosbat.com, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/c/font_4077963_hdjtu48suk.css",
-  "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?4582be7af7e7c95ef75351e07c6c32ba",
+  "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?c689c93b185b42c20ba519a21804affe",
   "cnzzStatisticsUrl": "",
   "simThemeImages": [
     {
-      "src": "https://z3.ax1x.com/2021/07/17/WlLevn.jpg",
+      "src": "https://s1.ax1x.com/2023/05/20/p94zvge.jpg",
       "url": "",
       "width": null,
       "height": null
@@ -28,17 +28,17 @@
     }
   ],
   "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
-  "simThemeHeight": 350,
+  "simThemeHeight": 263,
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
+      "src": "https://s1.ax1x.com/2023/05/20/p94zxjH.jpg",
       "url": "",
       "width": null,
       "height": null
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
+      "src": "https://s1.ax1x.com/2023/05/20/p95SSud.jpg",
       "url": "",
       "width": null,
       "height": null
