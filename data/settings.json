@@ -4,8 +4,8 @@
   "language": "zh-CN",
   "loading": "random",
   "showGithub": true,
-  "title": "易导航",
-  "description": "有内容的导航网站",
+  "title": "站集",
+  "description": "网站汇集，一站即达，海量资源，站集为您。",
   "keywords": "导航运维,开发,网络,设计师,实用工具,学习资源,运营,网络安全",
   "theme": "Light",
   "appTheme": "App",
@@ -16,13 +16,13 @@
   "simThemeImages": [
     {
       "src": "https://s1.ax1x.com/2023/05/20/p94zvge.jpg",
-      "url": "",
+      "url": "dh.dosbat.com",
       "width": null,
       "height": null
     },
     {
       "src": "https://s1.ax1x.com/2023/02/06/pScJ841.jpg",
-      "url": "",
+      "url": "dh.dosbat.com",
       "width": null,
       "height": null
     }
@@ -32,14 +32,20 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://s1.ax1x.com/2023/05/20/p94zxjH.jpg",
-      "url": "",
+      "src": "https://s1.ax1x.com/2023/02/06/pScENX6.jpg",
+      "url": "dh.dosbat.com",
       "width": null,
       "height": null
     },
     {
       "src": "https://s1.ax1x.com/2023/05/20/p95SSud.jpg",
-      "url": "",
+      "url": "dh.dosbat.com",
+      "width": null,
+      "height": null
+    },
+    {
+      "src": "https://s1.ax1x.com/2023/05/21/p9InrO1.jpg",
+      "url": "dh.dosbat.com",
       "width": null,
       "height": null
     }
