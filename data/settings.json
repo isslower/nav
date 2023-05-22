@@ -9,7 +9,7 @@
   "keywords": "导航运维,开发,网络,设计师,实用工具,学习资源,运营,网络安全",
   "theme": "Light",
   "appTheme": "App",
-  "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright ©2022-2023 dosbat.com, All Rights Reserved</div>",
+  "footerContent": "<div style=\"font-weight: bold;\">站集共为您收录${total}个网站</div><div>Copyright ©2022-2023 dosbat.com, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/c/font_4077963_hdjtu48suk.css",
   "baiduStatisticsUrl": "https://hm.baidu.com/hm.js?c689c93b185b42c20ba519a21804affe",
   "cnzzStatisticsUrl": "",
