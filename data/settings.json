@@ -7,7 +7,7 @@
   "title": "站集",
   "description": "网站汇集，一站即达，海量资源，站集为您。",
   "keywords": "导航运维,开发,网络,设计师,实用工具,学习资源,运营,网络安全",
-  "theme": "Light",
+  "theme": "Side",
   "appTheme": "App",
   "footerContent": "<div style=\"font-weight: bold;\">站集共为您收录${total}个网站</div><div>Copyright ©2022-2023 dosbat.com, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/c/font_4077963_hdjtu48suk.css",
