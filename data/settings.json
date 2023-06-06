@@ -32,19 +32,13 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://s1.ax1x.com/2023/06/05/pCCoa6A.jpg",
-      "url": "",
-      "width": null,
-      "height": null
-    },
-    {
-      "src": "https://s1.ax1x.com/2023/06/05/pCCoUld.jpg",
+      "src": "https://s1.ax1x.com/2023/06/06/pCPRwtJ.jpg",
       "url": "",
       "width": null,
       "height": null
     }
   ],
-  "sideThemeHeight": 150,
+  "sideThemeHeight": 300,
   "sideThemeAutoplay": true,
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
